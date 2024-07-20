@@ -36,11 +36,3 @@
 ![Static Badge](https://img.shields.io/badge/vk-000000?style=for-the-badge&logo=vk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Static Badge](https://img.shields.io/badge/2k+_hrs-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/40+_games-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/10+_lvl-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/550+_badges-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/fav_game:_CyberPunk_2077-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/fav_franchises:_Metro,_far_cry,_outlast,_little_nightmaries,_portal-000000?style=for-the-badge&logo=stea223m&logoColor=white)
