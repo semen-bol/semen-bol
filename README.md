@@ -1,8 +1,6 @@
 # About me
 ![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/age:_empty-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/Fav._lang:_JS_CSS_HTML_PyThon-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Fav._Editors:_Sublime_VS_Code_NotePad++-000000?style=for-the-badge&logo=stea223m&logoColor=white)
