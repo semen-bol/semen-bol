@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Fav._lang:_JS_CSS_HTML_PyThon-000000?style=for-the-badge&logo=stea223m&logoColor=white)
