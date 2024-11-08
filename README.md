@@ -2,13 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Main project: Nemo-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Fav._lang:_JS_CSS_HTML_PyThon-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Fav._Editors:_Sublime_VS_Code_NotePad++-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/MongoDB_one_love-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ## Languages and Tools (DataBase or Editor)
 ![Static Badge](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
