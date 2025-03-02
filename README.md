@@ -1,11 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+# About me
+![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/Main-project:-Nemo-000000?style=for-the-badge&logo=stea223m&logoColor=white)
+![Static Badge](https://img.shields.io/badge/age:_empty-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Fav._lang:_JS_CSS_HTML_PyThon-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/Fav._Editors:_Sublime_VS_Code_NotePad++-000000?style=for-the-badge&logo=stea223m&logoColor=white)
+
+![Static Badge](https://img.shields.io/badge/MongoDB_one_love-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 ## Languages and Tools (DataBase or Editor)
 ![Static Badge](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -25,12 +27,3 @@
 ![Static Badge](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/nodejs-000000?style=for-the-badge&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/notepad++-000000?style=for-the-badge&logo=notepadplusplus&logoColor=white)
-![Static Badge](https://img.shields.io/badge/.env-000000?style=for-the-badge&logo=dotenv&logoColor=white)
-![Static Badge](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-
-## Social
-![Static Badge](https://img.shields.io/badge/vk-000000?style=for-the-badge&logo=vk&logoColor=white)
-![Static Badge](https://img.shields.io/badge/telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
-![Static Badge](https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=white)
