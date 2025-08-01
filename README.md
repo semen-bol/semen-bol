@@ -1,10 +1,9 @@
 # About me
-![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/age:_16-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Fav._lang:_JS_CSS_HTML_PyThon-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-
 ![Static Badge](https://img.shields.io/badge/Fav._Editors:_Sublime_VS_Code_NotePad++-000000?style=for-the-badge&logo=stea223m&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/MongoDB_one_love-000000?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -27,3 +26,13 @@
 ![Static Badge](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)
+
+## Links
+<div id="badges">
+  <a href="https://t.me/whynoet">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://vk.com/nemolayn">
+    <img src="https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  </a>
+</div>
