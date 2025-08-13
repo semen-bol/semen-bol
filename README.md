@@ -1,37 +1,12 @@
-# About me
 
-![Static Badge](https://img.shields.io/badge/full_name:_Semen_Bolotov-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/age:_16-000000?style=for-the-badge&logo=stea223m&logoColor=white)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=semen-bol&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=semen-bol&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=semen-bol&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Static Badge](https://img.shields.io/badge/Fav._lang:_JS_CSS_HTML_PyThon-000000?style=for-the-badge&logo=stea223m&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Fav._Editors:_Sublime_VS_Code_NotePad++-000000?style=for-the-badge&logo=stea223m&logoColor=white)
+---
+[![](https://visitcount.itsvg.in/api?id=semen-bol&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Languages and Tools (DataBase or Editor)
-![Static Badge](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/gooo-000000?style=for-the-badge&logo=go&logoColor=white)
-![Static Badge](https://img.shields.io/badge/lua-000000?style=for-the-badge&logo=lua&logoColor=white)
-![Static Badge](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3)
-![Static Badge](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mongoose-000000?style=for-the-badge&logo=mongoose)
-![Static Badge](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql)
-![Static Badge](https://img.shields.io/badge/mariadb-000000?style=for-the-badge&logo=mariadb)
-![Static Badge](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sublime%20text-000000?style=for-the-badge&logo=sublime%20text&logoColor=white)
-![Static Badge](https://img.shields.io/badge/postman-000000?style=for-the-badge&logo=postman&logoColor=white)
-![Static Badge](https://img.shields.io/badge/termius-000000?style=for-the-badge&logo=termius&logoColor=white)
-![Static Badge](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Static Badge](https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white)
-
-## Links
-<div id="badges">
-  <a href="https://t.me/whynoet">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://vk.com/nemolayn">
-    <img src="https://img.shields.io/badge/VK-000000?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
